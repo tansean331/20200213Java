@@ -98,6 +98,7 @@ public class hw {
 		int c1 = 0;
 		int c2 = 0;
 		int cc = 0;
+		
 		for (int i = 0; i < 12; i++) {
 			if(i % 2 == 0) {
 				
